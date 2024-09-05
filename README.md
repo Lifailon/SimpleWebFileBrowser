@@ -29,7 +29,7 @@ source http/bin/activate
 - Install the [Flask](https://github.com/pallets/flask) or [FastAPI](https://github.com/tiangolo/fastapi) framework to your choice:
 
 ```shell
-pip install flask flasgger
+pip install -r requirements_flask.txt
 ```
 
 or
