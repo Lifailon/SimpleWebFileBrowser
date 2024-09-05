@@ -29,13 +29,13 @@ source http/bin/activate
 - Install the [Flask](https://github.com/pallets/flask) or [FastAPI](https://github.com/tiangolo/fastapi) framework to your choice:
 
 ```shell
-pip install flask flasgger
+pip install -r requirements_flask.txt
 ```
 
 or
 
 ```shell
-pip install fastapi uvicorn jinja2 python-multipart
+pip install -r requirements_fastapi.txt
 ```
 
 - Start the server:
