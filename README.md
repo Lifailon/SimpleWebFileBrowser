@@ -35,7 +35,7 @@ pip install flask flasgger
 or
 
 ```shell
-pip install fastapi uvicorn jinja2 python-multipart
+pip install -r requirements_fastapi.txt
 ```
 
 - Start the server:
